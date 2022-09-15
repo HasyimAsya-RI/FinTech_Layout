@@ -1,4 +1,4 @@
-package com.example.fintech_1layout
+package com.example.fintech1832_layout
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
